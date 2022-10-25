@@ -8,6 +8,7 @@
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 let a = 1
+let b = 2
 export default {
   name: 'App',
   components: {
